@@ -1,0 +1,6 @@
+*.cbp
+*.exe
+Debug
+Release
+*.depend
+*.layout
