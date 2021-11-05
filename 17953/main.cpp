@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-int x, n;
+unsigned long int x, n = 0;
 scanf("%d", &x);
-n = x;
+n += x;
 while (true) {
     if (x & n){
         printf("1");
